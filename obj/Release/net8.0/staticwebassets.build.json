@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "d6lfw/QA4e1LVAeIezGyggK64JspjZh7Iho+ntn+yKI=",
+  "Source": "WarHammer40K",
+  "BasePath": "_content/WarHammer40K",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "WarHammer40K\\wwwroot",
+      "Source": "WarHammer40K",
+      "ContentRoot": "C:\\Users\\marco\\source\\repos\\WarHammer40K\\WarHammer40K\\wwwroot\\",
+      "BasePath": "_content/WarHammer40K",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}

@@ -1,0 +1,25 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\marco\\source\\repos\\WarHammer40K\\WarHammer40K\\wwwroot\\profile-images\\669b470e-fe27-4bf7-8272-ef4eac10cd33_Yriel-Eldar.jpg",
+      "PackagePath": "staticwebassets\\profile-images\\669b470e-fe27-4bf7-8272-ef4eac10cd33_Yriel-Eldar.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.WarHammer40K.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.WarHammer40K.props",
+      "PackagePath": "build\\WarHammer40K.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.WarHammer40K.props",
+      "PackagePath": "buildMultiTargeting\\WarHammer40K.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.WarHammer40K.props",
+      "PackagePath": "buildTransitive\\WarHammer40K.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

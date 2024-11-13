@@ -1,0 +1,39 @@
+{
+  "Version": 1,
+  "Hash": "FRGJK//f4vkb2YKrpunyuENejmm83Kb3vyfQWuIdIsE=",
+  "Source": "WarHammer40K",
+  "BasePath": "_content/WarHammer40K",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "WarHammer40K\\wwwroot",
+      "Source": "WarHammer40K",
+      "ContentRoot": "C:\\Users\\marco\\source\\repos\\WarHammer40K\\WarHammer40K\\wwwroot\\",
+      "BasePath": "_content/WarHammer40K",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\marco\\source\\repos\\WarHammer40K\\WarHammer40K\\wwwroot\\profile-images\\669b470e-fe27-4bf7-8272-ef4eac10cd33_Yriel-Eldar.jpg",
+      "SourceId": "WarHammer40K",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\marco\\source\\repos\\WarHammer40K\\WarHammer40K\\wwwroot\\",
+      "BasePath": "_content/WarHammer40K",
+      "RelativePath": "profile-images/669b470e-fe27-4bf7-8272-ef4eac10cd33_Yriel-Eldar.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\profile-images\\669b470e-fe27-4bf7-8272-ef4eac10cd33_Yriel-Eldar.jpg"
+    }
+  ]
+}
